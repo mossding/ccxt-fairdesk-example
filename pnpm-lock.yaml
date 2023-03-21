@@ -13,7 +13,7 @@ specifiers:
   '@types/supertest': ^2.0.11
   '@typescript-eslint/eslint-plugin': ^5.0.0
   '@typescript-eslint/parser': ^5.0.0
-  ccxt-fairdesk: ^3.0.23
+  ccxt-fairdesk: ^3.0.26
   eslint: ^8.0.1
   eslint-config-prettier: ^8.3.0
   eslint-plugin-prettier: ^4.0.0
@@ -33,7 +33,7 @@ dependencies:
   '@nestjs/common': 9.3.10_mnr6j2del53muneqly5h4y27ai
   '@nestjs/core': 9.3.10_vtqjm4aysb2lmvp3b3whe7oj4e
   '@nestjs/platform-express': 9.3.10_7ftkheainf6elxr73aabueoaxm
-  ccxt-fairdesk: 3.0.23
+  ccxt-fairdesk: 3.0.26
   reflect-metadata: 0.1.13
   rxjs: 7.8.0
 
@@ -1873,9 +1873,9 @@ packages:
     resolution: {integrity: sha512-zgAo8D5kbOyUcRAgSmgyuvBkjrGk5CGYG5TYgFdpQv+ywcyEpo1LOWoG8YmoflGnh+V+UsNuKYedsoYs0hzV5A==}
     dev: true
 
-  /ccxt-fairdesk/3.0.23:
-    resolution: {integrity: sha512-2xTBC8mwgU6TN6XYeOtaeIoeUYwmbRNg+SxuXRP02R54ltRFT8fLK9waKnvanR4U7qBJdPcXjVGqV5eFv761kA==}
-    engines: {node: '>=15.0.0'}
+  /ccxt-fairdesk/3.0.26:
+    resolution: {integrity: sha512-dbycz4Ox1Zh4K+JuNm7OmHTxqvN3Nd9SCMacBMr0HygaNMy1iUSxLacMAyQTdwBaVb1B7cc2tVgCZ0i5z9RFAQ==}
+    engines: {node: '>=16.0.0'}
     requiresBuild: true
     dependencies:
       ws: 8.13.0
